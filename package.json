@@ -1,0 +1,18 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nhân",
+  "license": "ISC",
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "nodemon": "^3.0.1"
+  }
+}
